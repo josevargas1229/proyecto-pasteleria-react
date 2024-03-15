@@ -1,0 +1,20 @@
+.email {
+    display: flex;
+    border-radius: 25px;
+    justify-content: center;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border: 1px solid rgba(157, 161, 158, 0.575);
+    font-weight: bold;
+}
+
+.backGroundMethod{
+    background-image: url('/public/images/bread-2605890_1280.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100%;
+    padding-top: 50px; /* Ajusta según sea necesario */
+}

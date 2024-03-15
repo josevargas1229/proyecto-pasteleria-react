@@ -1,0 +1,50 @@
+.linkF {
+    list-style: none;
+    padding: 0;
+}
+
+.linksF {
+    text-decoration: none;
+    color: white;
+}
+
+.bodyF {
+    background-color: #4F1426;
+    color: white;
+    padding-top: 5px;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.lista {
+    padding: 0;
+}
+
+.backGroundRegistro {
+    background-image: url('/public/images/cake-3390301_1280.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100%;
+    padding-top: 50px; /* Ajusta según sea necesario */
+}
+
+.backGroundLogin {
+    background-image: url('/public/images/ribbon-1065920_1280.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100%;
+    padding-top: 50px; /* Ajusta según sea necesario */
+}
+.backGroundRecovery{
+    background-image: url('/public/images/bread-2605890_1280.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100%;
+    padding-top: 50px; /* Ajusta según sea necesario */
+}
+
